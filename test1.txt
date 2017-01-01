@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C643-015C
+
+ Directory of C:\Users\renjualoe\Desktop\git\mygitproject
+
+01-01-2017  14:06    <DIR>          .
+01-01-2017  14:06    <DIR>          ..
+01-01-2017  14:06                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  85,092,290,560 bytes free
